@@ -25,3 +25,37 @@ How has the company’s workforce changed over time?
 
 What is the average tenure of employees by department?
 
+
+
+SUMMARY OF FINDINGS
+
+The company workforce is male-dominated, with males slightly outnumbering females.
+
+Non-conforming employees represent a very small proportion of the workforce, indicating limited gender diversity beyond binary categories.
+
+The workforce is concentrated between ages 25–54, with the 35–44 age group being the largest.
+
+Very few employees fall in the 18–24 and 55–64 ranges, suggesting:
+
+Limited early-career hiring
+
+Potential future retirement risk as the core workforce ages
+
+Engineering, Accounting, and Human Resources have the highest employee counts, with Engineering showing the strongest male dominance.
+
+Gender representation varies by department but follows the overall company trend.
+
+The majority of employees work at headquarters, while a smaller but significant portion work remotely.
+
+The workforce is racially diverse, though White employees form the largest group.
+
+Other racial groups are fairly evenly distributed, indicating moderate diversity but room for improvement.
+
+The average length of employment for terminated employees is ~8 years, suggesting:
+
+Turnover often occurs after long tenure rather than early exits.
+
+Employee numbers generally increased steadily from 2000 to 2020.
+
+Net employee change remained positive most years, indicating overall company growth, with slight fluctuations in later years.
+
