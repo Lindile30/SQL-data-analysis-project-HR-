@@ -1,3 +1,7 @@
+<img width="1321" height="759" alt="dashboard sheet 1" src="https://github.com/user-attachments/assets/ae57b7cc-2804-4b44-b4de-c30789d3916f" />
+
+<img width="1492" height="853" alt="dashboard sheet 2" src="https://github.com/user-attachments/assets/db671205-d022-4d15-9656-ad335466f43e" />
+
 # SQL-data-analysis-project-HR-
 Data analysis project completed using SQL and Power BI
 
