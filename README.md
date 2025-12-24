@@ -1,7 +1,7 @@
 # SQL-data-analysis-project-HR-
 Data analysis project completed using SQL and Power BI
 
-Business Questions?
+BUSINESS QUESTIONS
 
 What is the gender breakdown of employees in the company?
 
@@ -59,3 +59,28 @@ Employee numbers generally increased steadily from 2000 to 2020.
 
 Net employee change remained positive most years, indicating overall company growth, with slight fluctuations in later years.
 
+LIMITATIONS 
+
+Data quality assumptions
+
+The analysis assumes 0000-00-00 accurately represents active employees, which may not be realistic in real-world HR systems.
+
+No performance or salary data
+
+Turnover causes cannot be fully explained without compensation, engagement, or performance metrics.
+
+Limited diversity categories
+
+Gender and race categories may be simplified or incomplete, which can underrepresent real diversity.
+
+Age filtering bias
+
+Employees under 18 and over 65 are excluded, potentially missing interns or post-retirement contractors.
+
+Tenure calculation for active employees
+
+Average tenure is calculated only for terminated employees, not current staff, which limits workforce stability insights.
+
+External factors not considered
+
+Economic conditions, company policy changes, and industry trends were not included in the analysis.
